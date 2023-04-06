@@ -1,5 +1,5 @@
 # Agentie de Turism
-Acest proiect implementează un sistem de baze de date relaționale, conceput pentru a stoca și gestiona o varietate de informații legate de aranjamente de călătorie și rezervări. Aceste colecții oferă acces rapid și eficient la date și acceptă interogări și tranzacții complexe datorită unei diagrame Entity-Relationship bine structurată și normalizării 3NF.
+Acest proiect implementează un sistem de baze de date relaționale, conceput pentru a stoca și gestiona o varietate de informații legate de aranjamente de călătorie și rezervări. Aceste colecții oferă acces rapid și eficient la date și acceptă interogări și tranzacții complexe datorită organizării după o diagramă Entity-Relationship bine structurată și normalizării 3NF.
 
 Descrierea sistemului informatic "Agenție de turism":
 
